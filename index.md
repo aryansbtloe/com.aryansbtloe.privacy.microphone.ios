@@ -1,79 +1,97 @@
+Privacy Policy
 
-<!doctype html>
-<html amp i-amphtml-layout i-amphtml-no-boilerplate transformed="self;v=1">
-  <head><meta charset="utf-8"><style amp-runtime i-amphtml-version="012004240001480">html{overflow-x:hidden!important}html.i-amphtml-fie{height:100%!important;width:100%!important}html:not([amp4ads]),html:not([amp4ads]) body{height:auto!important}html:not([amp4ads]) body{margin:0!important}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y;touch-action:pan-y}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important}html.i-amphtml-fie:not(.i-amphtml-inabox)>body,html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body{position:relative!important}html.i-amphtml-webview>body{overflow-x:hidden!important;overflow-y:visible!important;min-height:100vh!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}#i-amphtml-wrapper+body{visibility:visible}#i-amphtml-wrapper+body .i-amphtml-lightbox-element,#i-amphtml-wrapper+body[i-amphtml-lightbox]{visibility:hidden}#i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element{visibility:visible}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}amp-instagram{padding:54px 0px 0px!important;background-color:#fff}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-subs-ready) [subscriptions-section]{display:none!important}amp-experiment,amp-live-list>[update],amp-share-tracking{display:none}.i-amphtml-jank-meter{position:fixed;background-color:rgba(232,72,95,0.5);bottom:0;right:0;color:#fff;font-size:16px;z-index:1000;padding:5px}amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden{display:none!important}amp-list[load-more] [load-more-button],amp-list[load-more] [load-more-end],amp-list[load-more] [load-more-failed],amp-list[load-more] [load-more-loading]{display:none}amp-story-page,amp-story[standalone]{min-height:1px!important;display:block!important;height:100%!important;margin:0!important;padding:0!important;overflow:hidden!important;width:100%!important}amp-story[standalone]{background-color:#202125!important;position:relative!important}amp-story-page{background-color:#757575}amp-story .amp-active>div{display:none!important}amp-story-page:not(:first-of-type):not([distance]):not([active]){transform:translateY(1000vh)!important}amp-autocomplete{position:relative!important;display:inline-block!important}amp-autocomplete>input,amp-autocomplete>textarea{padding:0.5rem;border:1px solid rgba(0,0,0,0.33)}.i-amphtml-autocomplete-results,amp-autocomplete>input,amp-autocomplete>textarea{font-size:1rem;line-height:1.5rem}[amp-fx^=fly-in]{visibility:hidden}
-/*# sourceURL=/css/ampdoc.css*/[hidden]{display:none!important}.i-amphtml-element{display:inline-block}.i-amphtml-blurry-placeholder{transition:opacity 0.3s cubic-bezier(0.0,0.0,0.2,1)!important}[layout=nodisplay]:not(.i-amphtml-element){display:none!important}.i-amphtml-layout-fixed,[layout=fixed][width][height]:not(.i-amphtml-layout-fixed){display:inline-block;position:relative}.i-amphtml-layout-responsive,[layout=responsive][width][height]:not(.i-amphtml-layout-responsive),[width][height][sizes]:not(.i-amphtml-layout-responsive){display:block;position:relative}.i-amphtml-layout-intrinsic{display:inline-block;position:relative;max-width:100%}.i-amphtml-intrinsic-sizer{max-width:100%;display:block!important}.i-amphtml-layout-container,.i-amphtml-layout-fixed-height,[layout=container],[layout=fixed-height][height]{display:block;position:relative}.i-amphtml-layout-fill,[layout=fill]:not(.i-amphtml-layout-fill){display:block;overflow:hidden!important;position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-layout-flex-item,[layout=flex-item]:not(.i-amphtml-layout-flex-item){display:block;position:relative;-ms-flex:1 1 auto;flex:1 1 auto}.i-amphtml-layout-fluid{position:relative}.i-amphtml-layout-size-defined{overflow:hidden!important}.i-amphtml-layout-awaiting-size{position:absolute!important;top:auto!important;bottom:auto!important}i-amphtml-sizer{display:block!important}.i-amphtml-blurry-placeholder,.i-amphtml-fill-content{display:block;height:0;max-height:100%;max-width:100%;min-height:100%;min-width:100%;width:0;margin:auto}.i-amphtml-layout-size-defined .i-amphtml-fill-content{position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-layout-intrinsic .i-amphtml-sizer{max-width:100%}.i-amphtml-replaced-content,.i-amphtml-screen-reader{padding:0!important;border:none!important}.i-amphtml-screen-reader{position:fixed!important;top:0px!important;left:0px!important;width:4px!important;height:4px!important;opacity:0!important;overflow:hidden!important;margin:0!important;display:block!important;visibility:visible!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:8px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:12px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:16px!important}.i-amphtml-unresolved{position:relative;overflow:hidden!important}.i-amphtml-select-disabled{-webkit-user-select:none!important;-moz-user-select:none!important;-ms-user-select:none!important;user-select:none!important}.i-amphtml-notbuilt,[layout]:not(.i-amphtml-element){position:relative;overflow:hidden!important;color:transparent!important}.i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,[layout]:not([layout=container]):not(.i-amphtml-element)>*{display:none}.i-amphtml-ghost{visibility:hidden!important}.i-amphtml-element>[placeholder],[layout]:not(.i-amphtml-element)>[placeholder]{display:block}.i-amphtml-element>[placeholder].amp-hidden,.i-amphtml-element>[placeholder].hidden{visibility:hidden}.i-amphtml-element:not(.amp-notsupported)>[fallback],.i-amphtml-layout-container>[placeholder].amp-hidden,.i-amphtml-layout-container>[placeholder].hidden{display:none}.i-amphtml-layout-size-defined>[fallback],.i-amphtml-layout-size-defined>[placeholder]{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;z-index:1}.i-amphtml-notbuilt>[placeholder]{display:block!important}.i-amphtml-hidden-by-media-query{display:none!important}.i-amphtml-element-error{background:red!important;color:#fff!important;position:relative!important}.i-amphtml-element-error:before{content:attr(error-message)}i-amp-scroll-container,i-amphtml-scroll-container{position:absolute;top:0;left:0;right:0;bottom:0;display:block}i-amp-scroll-container.amp-active,i-amphtml-scroll-container.amp-active{overflow:auto;-webkit-overflow-scrolling:touch}.i-amphtml-loading-container{display:block!important;pointer-events:none;z-index:1}.i-amphtml-notbuilt>.i-amphtml-loading-container{display:block!important}.i-amphtml-loading-container.amp-hidden{visibility:hidden}.i-amphtml-element>[overflow]{cursor:pointer;position:relative;z-index:2;visibility:hidden;display:initial}.i-amphtml-element>[overflow].amp-visible{visibility:visible}template{display:none!important}.amp-border-box,.amp-border-box *,.amp-border-box :after,.amp-border-box :before{box-sizing:border-box}amp-pixel{display:none!important}amp-analytics,amp-story-auto-ads{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}html.i-amphtml-fie>amp-analytics{position:initial!important}[visible-when-invalid]:not(.visible),amp-list [fetch-error],form [submit-error],form [submit-success],form [submitting]{display:none}amp-accordion{display:block!important}amp-accordion>section{float:none!important}amp-accordion>section>*{float:none!important;display:block!important;overflow:hidden!important;position:relative!important}amp-accordion,amp-accordion>section{margin:0}amp-accordion>section>:last-child{display:none!important}amp-accordion>section[expanded]>:last-child{display:block!important}
-/*# sourceURL=/css/ampshared.css*/</style><meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"><link rel="dns-prefetch preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preload" href="https://cdn.ampproject.org/v0.js" as="script"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="description" content><meta name="keywords" content><meta name="robots" content="noindex,nofollow"><meta property="og:locale" content="en_US"><meta property="og:type" content="article"><meta property="og:title" content><meta property="og:description" content><meta property="og:site_name" content><meta property="og:url" content="https://web.oyorooms.com/yes300tnc"><script async src="https://cdn.ampproject.org/v0.js"></script><script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script><link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"><link rel="preconnect dns-prefetch" href="https://fonts.gstatic.com" crossorigin><link rel="canonical" href="http://web.oyorooms.com/yes300tnc"><title>Yes 300 tnc</title><style amp-custom>body{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:block;}a{text-decoration:none;color:inherit;cursor:pointer;}a:not(.btn):hover{text-decoration:underline;}input,select,textarea,p,h1,h2,h3,h4,h5,h6{margin:0;font-size:inherit;font-weight:inherit;}main{overflow:hidden;}u > span{text-decoration:inherit;}ol,ul{padding-left:2.5rem;margin:.625rem 0;}p{word-wrap:break-word;}iframe{border:0;}*{box-sizing:border-box;}.item-absolute{position:absolute;}.item-block{display:block;height:100%;width:100%;}.item-cover{z-index:1000001;}.item-breakword{word-wrap:break-word;}.item-content-box{box-sizing:content-box;}.hidden{display:none;}.clearfix{clear:both;}.hidden-mobile{display:none;}.variation{display:none;}body:not([amp-x-e]) #v-A{display:block;}body{font-family:"Open Sans";background:rgb(255,255,255);}body .headline{font-family:"Open Sans";}.section-relative{position:relative;margin:0 auto;}.section-inner{height:100%;}#s-A-page_block_header{height:72.4375rem;max-width:100%;}#s-A-page_block_header .section-holder-border{border:0;}#s-A-page_block_header .section-block{background:none;height:72.4375rem;}#s-A-page_block_header .section-holder-overlay{display:none;}#w-A-1{top:0;left:0.0625rem;height:72.4114rem;width:25rem;z-index:3;}#w-A-2{top:2rem;left:1.75rem;height:2rem;width:21.5rem;z-index:4;color:#37465A;font-size:1.2384rem;line-height:2rem;text-align:left;}#w-A-2 .x_5e07e3a7{text-align:left;line-height:2rem;font-size:1.2384rem;}#w-A-2 .x_9811881d{text-align:left;line-height:2rem;font-size:1.2384rem;}#w-A-4{top:6.3125rem;left:1.8125rem;height:45.5rem;width:21.4375rem;z-index:5;color:#37465A;font-size:1.1008rem;line-height:1.7778rem;text-align:left;}#w-A-4 .x_ef4ca66e{text-align:left;line-height:1.6875rem;font-size:1.1008rem;}@media screen and (max-width:400px){:root{font-size:4vw;}}@media screen and (min-width:401px) and (max-width:767px){:root{font-size:16px;}}@media screen and (min-width:768px) and (max-width:1200px){:root{font-size:1.33vw;}}@media screen and (min-width:400px){.section-fit{width:400px;}}</style></head>
-  <body>
+Your privacy is important to us. It is Virtual Mic's policy to respect your privacy regarding any information we may collect from you through our app, Virtual Mic.
 
+We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
 
-    <div id="dummy"></div>
+We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
 
+We don’t share any personally identifying information publicly or with third-parties, except when required to by law.
 
-    <main>
-        <div id="v-A" class="variation">
-  
+Our app may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
 
-    <section class="section section-relative " id="s-A-page_block_header" data-at="section">
-  <div class="section-anchor" id="page_block_header"></div> 
-  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
-  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
-  <div class="section-block">
-    <div class="section-inner section-fit section-relative">
-        <div class="widget item-absolute  " id="w-A-1">
-  <a href="https://www.oyorooms.com/deals/oyo/?id&#x3D;3194" class="url-link item-block" data-at="image-link" id="link-ypwazx3a6k" data-link-ypwazx3a6k>
-    <amp-img src="//v.fastcdn.co/t/b33fcfa6/fbd9b819/1576650151-47863185-367x1063-Untitled-7-01.jpg" alt width="400" height="1158.58310626703" layout="responsive" data-at="image" data-amp-auto-lightbox-disable class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" i-amphtml-layout="responsive"><i-amphtml-sizer style="display:block;padding-top:289.6458%;"></i-amphtml-sizer></amp-img>
-  </a>
-</div>
+You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
 
-        <div class="widget item-absolute headline  " id="w-A-2" data-at="headline">
-  <div class="contents">
-    <h1>
-      <p class="x_8ae9aa76 x_5e07e3a7">    </p><p class="x_e6507cf2 x_9811881d">Terms and Conditions</p><p class="x_8ae9aa76 x_5e07e3a7">   </p>
-    </h1>
-  </div>
-</div>
+Your continued use of our app will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 
-        <div class="widget item-absolute headline  " id="w-A-4" data-at="headline">
-  <div class="contents">
-    <h1>
-      <p class="x_3579aa00 x_ef4ca66e">    </p><p class="x_3579aa00 x_ef4ca66e">1)Offer is Valid for all bookings made using coupon code "<strong>YES300</strong>"
-</p><p class="x_3579aa00 x_ef4ca66e">2)Cancellation charges will be applicable as per the hotel policy
-</p><p class="x_3579aa00 x_ef4ca66e">3)Paytm Cash will be credited to the Paytm wallet linked to phone number of users booking on the OYO app by 15th Jan
-</p><p class="x_3579aa00 x_ef4ca66e">4)Each user can earn maximum Rs1000 Paytm Cash against this offer
-</p><p class="x_3579aa00 x_ef4ca66e">5)Offer is applicable only for hotels &amp; homes in India
-</p><p class="x_3579aa00 x_ef4ca66e">6)Offer applicable for booking made on Android, IOS, Mweb and Desktop web
-</p><p class="x_3579aa00 x_ef4ca66e">7)No Paytm Cash will be credited for booking cancelled within 30 mins
-</p><p class="x_3579aa00 x_ef4ca66e">8)Min customer paid price should be ₹500 per Room night. (Customer paid price - Excluding OYO Money, partner discount &amp; OYO Rupee)
-</p><p class="x_3579aa00 x_ef4ca66e">9)No cashback on Power Break Bookings
-</p><p class="x_3579aa00 x_ef4ca66e">10)All sale and Paytm related issues will be addressed by OYO Hotels &amp; Homes Private Limited
-</p><p class="x_3579aa00 x_ef4ca66e">11)Paytm Cashback will be transferred by OYO Hotels &amp; Homes Private Limited</p><p class="x_3579aa00 x_ef4ca66e">   </p>
-    </h1>
-  </div>
-</div>
-
-    </div>
-  </div>
-</section>
+This policy is effective as of 19 April 2020.
 
 
-  
-
-</div>
-
-    </main>
-
-    <amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:1px;height:1px;" i-amphtml-layout="fixed">
-  <script type="application/json">
-    {"requests":{"visit":"https://anthill.instapage.com/projects/56c2f3d796773d0a7e96a536/events-amp/visit?api_key=45bbd59ee213468cf3f44e8593aa754c6b6cec3a218eb0ce6be7cc3bfd761de98bce51e03ed830ada8a925f19530cbce970ec2c9e86c8ddee020ffe4ff8a97e0d4bcc102a67c11710fc765335a660c1a5dbac190df76d7c2f76fc213ea43f64418d752d6c3503b172216bbb8aae7dbd6a34ce81e5ccde82f9776453e700932b5c6b24893d80146a5a391b34c5e0683a2&t=${timestamp}&owner_id=1357498&customer_id=1651848&page_id=19624645&published_version=4&responsive_mode=mobile&useragent=${userAgent}&generation_time=1129&ref=${documentReferrer}&amp_client_id=${clientId(cid)}&amp_variation=A&amp_variation_context=eyJBIjp7ImlkIjoxLCJsaW5rZWRJZCI6Mn19&viewport_width=VIEWPORT_WIDTH&viewport_height=VIEWPORT_HEIGHT&page_url=SOURCE_URL","formConversion":"https://anthill.instapage.com/projects/56c2f3d796773d0a7e96a536/events-amp/conversion?api_key=45bbd59ee213468cf3f44e8593aa754c6b6cec3a218eb0ce6be7cc3bfd761de98bce51e03ed830ada8a925f19530cbce970ec2c9e86c8ddee020ffe4ff8a97e0d4bcc102a67c11710fc765335a660c1a5dbac190df76d7c2f76fc213ea43f64418d752d6c3503b172216bbb8aae7dbd6a34ce81e5ccde82f9776453e700932b5c6b24893d80146a5a391b34c5e0683a2&t=${timestamp}&owner_id=1357498&customer_id=1651848&page_id=19624645&published_version=4&responsive_mode=mobile&useragent=${userAgent}&generation_time=GENERATION_TIME&ref=${documentReferrer}&amp_client_id=${clientId(cid)}&amp_variation=A&amp_variation_context=eyJBIjp7ImlkIjoxLCJsaW5rZWRJZCI6Mn19&viewport_width=VIEWPORT_WIDTH&viewport_height=VIEWPORT_HEIGHT&page_url=SOURCE_URL&conversion_type=form","linkConversion-ypwazx3a6k":"https://anthill.instapage.com/projects/56c2f3d796773d0a7e96a536/events-amp/conversion?api_key=45bbd59ee213468cf3f44e8593aa754c6b6cec3a218eb0ce6be7cc3bfd761de98bce51e03ed830ada8a925f19530cbce970ec2c9e86c8ddee020ffe4ff8a97e0d4bcc102a67c11710fc765335a660c1a5dbac190df76d7c2f76fc213ea43f64418d752d6c3503b172216bbb8aae7dbd6a34ce81e5ccde82f9776453e700932b5c6b24893d80146a5a391b34c5e0683a2&t=${timestamp}&owner_id=1357498&customer_id=1651848&page_id=19624645&published_version=4&responsive_mode=mobile&useragent=${userAgent}&generation_time=GENERATION_TIME&ref=${documentReferrer}&amp_client_id=${clientId(cid)}&amp_variation=A&amp_variation_context=eyJBIjp7ImlkIjoxLCJsaW5rZWRJZCI6Mn19&viewport_width=VIEWPORT_WIDTH&viewport_height=VIEWPORT_HEIGHT&page_url=SOURCE_URL&conversion_type=link&href=https://www.oyorooms.com/deals/oyo/?id=3194"},"triggers":{"trackVisit":{"on":"visible","request":"visit"},"trackFormSubmission":{"on":"amp-form-submit-success","request":"formConversion"},"trackLink-ypwazx3a6k":{"on":"click","selector":"#link-ypwazx3a6k","request":"linkConversion-ypwazx3a6k"}},"transport":{"image":true,"xhrpost":false,"beacon":false}}
-  </script>
-</amp-analytics>
 
 
-<!-- F_INSTAPAGE[dynamic_text_replacement;page_generator] -->
-<!-- Generated at: 2020-04-28T19:58:20.571Z -->
-<!--
 
--->
-  </body>
-</html>
+
+
+Virtual Mic Terms of Service
+
+1. Terms
+
+By accessing our app, Virtual Mic, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing Virtual Mic. The materials contained in Virtual Mic are protected by applicable copyright and trademark law.
+
+
+
+2. Use License
+
+
+
+
+
+Permission is granted to temporarily download one copy of Virtual Mic per device for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+
+
+
+modify or copy the materials;
+
+use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
+
+attempt to decompile or reverse engineer any software contained in Virtual Mic;
+
+remove any copyright or other proprietary notations from the materials; or
+
+transfer the materials to another person or "mirror" the materials on any other server.
+
+
+
+
+
+This license shall automatically terminate if you violate any of these restrictions and may be terminated by Virtual Mic at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+
+
+
+3. Disclaimer
+
+
+
+The materials within Virtual Mic are provided on an 'as is' basis. Virtual Mic makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+
+Further, Virtual Mic does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to Virtual Mic.
+
+
+
+4. Limitations
+
+In no event shall Virtual Mic or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use Virtual Mic, even if Virtual Mic or a Virtual Mic authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+
+
+
+5. Accuracy of materials
+
+The materials appearing in Virtual Mic could include technical, typographical, or photographic errors. Virtual Mic does not warrant that any of the materials on Virtual Mic are accurate, complete or current. Virtual Mic may make changes to the materials contained in Virtual Mic at any time without notice. However Virtual Mic does not make any commitment to update the materials.
+
+
+
+6. Links
+
+Virtual Mic has not reviewed all of the sites linked to its app and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Virtual Mic of the site. Use of any such linked website is at the user's own risk.
+
+
+
+7. Modifications
+
+Virtual Mic may revise these terms of service for its app at any time without notice. By using Virtual Mic you are agreeing to be bound by the then current version of these terms of service.
+
+
+
+8. Governing Law
+
+These terms and conditions are governed by and construed in accordance with the laws of Haryana and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
